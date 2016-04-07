@@ -1,0 +1,14 @@
+{
+  "name": "SplitTheStream",
+  "version": "0.0.0",
+  "description": "Given a stream of data and a pattern through command line. The program will split the data into chunks of data using the given pattern.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Hung Tran",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "commander": "~2.9.0"
+  }
+}
